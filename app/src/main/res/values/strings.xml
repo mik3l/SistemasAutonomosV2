@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sistemas Autonomos</string>
+    <string name="button">Button</string>
+    <string name="output_de_voz">Output de Voz</string>
+    <string name="textview">Verificação</string>
+    <string name="click_para_falar">Click para falar</string>
+</resources>
